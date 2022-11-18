@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+}
+
+.productimage{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.card{
+    margin: 5px;
+    padding: 10px; 
+}
+
